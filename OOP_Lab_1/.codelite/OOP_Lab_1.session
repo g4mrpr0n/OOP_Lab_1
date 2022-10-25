@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/anan/Code/project2/OOP_Lab_1/OOP_Lab_1/OOP_Lab_1.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/home/anan/Code/project2/OOP_Lab_1/OOP_Lab_1/OOP_Lab_1.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/anan/Code/project2/OOP_Lab_1/OOP_Lab_1/OOP_Lab_1/main.c" Name="FileName"/>
+      <int Value="223" Name="FirstVisibleLine"/>
+      <int Value="243" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/usr/include/conio.h" Name="FileName"/>
+      <int Value="59" Name="FirstVisibleLine"/>
+      <int Value="84" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>
